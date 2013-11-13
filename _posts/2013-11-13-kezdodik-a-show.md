@@ -5,7 +5,7 @@ date: 2013-11-13 09:28
 tags:
    - devoxx 
 ---
-A negyedben ahol aludtunk a villamos még kaftános kalapos munkába siető zsidókkal volt tele a villamos, de ahogy egyre haladtunk kifelé a város szélén lévő mozi komplexum felé, egyre nagyobb lett a laptop táskás tömeg a villamoson. A végére már minden budapesten tanult praktikát be kellett vetni, hogy fentmaradjunk.
+A negyedben ahol aludtunk a villamos még kaftános kalapos munkába siető zsidókkal volt tele a villamos, de ahogy egyre haladtunk kifelé a város szélén lévő mozi komplexum felé, egyre nagyobb lett a laptop táskás tömeg a villamoson. A végére már minden Budapesten tanult praktikát be kellett vetni, hogy fent maradjunk
 
 Aztán kiérkeztünk a város szélére. A hatalmas regisztrációs sort viszonylag jól kezelték, és akkor már csak a keynote terem előtt lévő hatalmas tömegen kellett átszivárogni, hogy leüljünk a hatalmas moziteremben.
 
