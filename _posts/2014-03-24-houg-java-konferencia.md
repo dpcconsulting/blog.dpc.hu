@@ -4,6 +4,7 @@ tag:
    - java
    - magyar
    - konferencia
+layout: post
 ---
 
 Nem is tudom mikor volt utoljára Java konferencia Magyarországon. Talán a régi Sun-os időkben és ott se a legvégén. Már csak ezért is nagy szó szerintem, hogy az idei HOUG  konferencián a Java szekció egy külön fél napot kapott. Az érdeklődők száma (az elején még plusz székeket is be kellett hozni) és az előadások színvonala is azt mutatta, hogy egy ilyen alkalom akár nagyobb időkeretet is (most csak kb. 25 perc volt egy előadásra) megérdemelne.
