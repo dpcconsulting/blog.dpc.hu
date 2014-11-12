@@ -18,4 +18,6 @@ I made a note to myself to check out [Juju](juju.ubuntu.com), a config managemen
 
 Also *encapsecurity* and their multi factor authN with TouchID. Among the technical details we also got to learn that "it's not your attribute if you're not born with it", i.e. "you are not your phone". 
 
+And at night [@xmlgrrl](https://twitter.com/xmlgrrl) was singing and [@jonibrennan](https://twitter.com/jonibrennan) played the flute.
+
 Thanks, organizers, see everyone next year.
