@@ -6,9 +6,8 @@ layout: layout
   <h1>
     <a href="{{ page.url }}">{{ page.title }}</a>
   </h1>
-
   <section class="byline">
-    {{ page.date | date: "%B %e, %Y" }}
+    {{ page.date | date: "%B %e, %Y" }}, {{page.author}}
   </section>
 
   {{ content }}
