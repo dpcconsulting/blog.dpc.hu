@@ -4,4 +4,4 @@ To write a post:
 
 1. Copy (and rename) the file yyyy-mm-dd-title.md to the _posts directory.
 2. Fill the file with content
-3. Command and push
+3. Commit and push
