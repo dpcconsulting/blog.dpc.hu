@@ -5,5 +5,5 @@ rdiscount:
   extensions: [smart]
 
 name: DPC Consulting
-baseurl: http://dpc.hu/blog/hu/
+baseurl: http://blog.dpc.hu
 paginate: 20
