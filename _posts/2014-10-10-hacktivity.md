@@ -1,4 +1,9 @@
-Hacktivity 2014
+---
+title: "Hacktivity 2014, Budapest"
+layout: post
+author: gabor
+---
+
 
 Sok év után, idén először sikerült eljutnom a Hacktivity-re, Kelet-Közép Európa IT Biztonsági Konferenciájára, melynek idén októberben a MOM Kulturális Központ adott otthont. A Hacktivity az etikus hackerek, biztonsági tanácsadók és szakértők fóruma. Lelkes amatőr érdeklődőként látogattam ki a rendezvényre. Számtalan könyvet, cikket elolvastam már a témával kapcsolatban, gyakorlatom nincs, tehát kíváncsi voltam.
 
