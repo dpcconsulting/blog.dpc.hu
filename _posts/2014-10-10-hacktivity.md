@@ -15,7 +15,7 @@ Keynote előadások
 **Jason Chan**
 **Keynote - Építsünk üvegházat: modern szoftver architektúrák és gyakorlatok biztonsági adaptációi**
 
-A mai szoftverek hatalmas átalakuláson mennek keresztül, tekintve az infrastruktúrát, az üzemeltetést, sőt, még a szoftverfejlesztés módszertana is gyökeres megváltozott. A tradícionális vízesés modellt kiszorítják az agilis módszerek, megjelennek a mikroszervízek a monolitikus (makro)rendszerekkel szemben, egyre több és több szolgáltatás jelenik meg felhő alapokon, egyre nagyobb figyelmet kap a *DevOps*.
+A mai szoftverek hatalmas átalakuláson mennek keresztül, tekintve az infrastruktúrát, az üzemeltetést, sőt, még a szoftverfejlesztés módszertana is gyökeres megváltozott. A tradícionális vízesés modellt kiszorítják az agilis módszerek, megjelennek a mikroszervizek a monolitikus (makro)rendszerekkel szemben, egyre több és több szolgáltatás jelenik meg felhő alapokon, egyre nagyobb figyelmet kap a *DevOps*.
 
 *Ami az alkalmazások biztonságát illeti, ideje gyászolni: viszlát traditionalis alkalmazás biztonság, alig ismertünk, nem sok időt töltöttél velünk.*
 
