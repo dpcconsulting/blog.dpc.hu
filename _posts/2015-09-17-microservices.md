@@ -4,7 +4,7 @@ layout: post
 author: elek
 ---
 
-A tegnapi JUM-on két előadás is szólt a microservice-ekről. Az első egy általánosabb bevezető volt (Peter Boon - The Theory of Microservices), a második egy tehnológiai megvalósítst mutatott meg (Norbert Sram - Java in the land of microservices ).
+A tegnapi JUM-on két előadás is szólt a microservice-ekről. Az első egy általánosabb bevezető volt (Peter Boon - The Theory of Microservices), a második egy tehnológiai megvalósítást mutatott meg (Norbert Sram - Java in the land of microservices ).
 
 Az előadások érdekesek voltak, de több olyan dolog is előjött, amik szerintem pontosításra szorulhatnak. Az alábbi szövegben a címek általában az előadásból/prezentációból valók, alatta a kommentjeim.
 
@@ -32,11 +32,11 @@ A második részben egy példát láthattunk microservice architektúrára. A p�
 
 Persze azt értettük, hogy egy ilyen kis (RPi-n futú alkalmazás) megvalósításához valószínűleg a microservices architektúra pont nem annyira ideális, ez inkább csak kísérlet, tanuló projekt volt.
 
-De amellett, hogy valószínű jobb lett volna valami életszagúbb példa itt is előjön a kérdés, hogy hol az a komplexitás, amikor már megéri microservice-eket használni. (Lásd még Fowler bácsit [1][itt] és [2][itt], valamit az ellenvéleményt [itt][3].)
+De amellett, hogy valószínű jobb lett volna valami életszagúbb példa itt is előjön a kérdés, hogy hol az a komplexitás, amikor már megéri microservice-eket használni. (Lásd még Fowler bácsit [itt][1] és [itt][2], valamit az ellenvéleményt [itt][3].)
 
 Ez egyik slideon például fel voltak sorolva a nevek, hogy kik használják (Amazon, Google, NetFlix, stb.), de nekik vélhetően teljesen más problémájuk van mint egy átlagos backend-frontend webalkalmazásnak. 
 
-Hasonló a helyzet mint a NoSQL-nél: sokszor sok innováció/trend a nagy startup cégektől ered, és előfordul, hogy az ő környezetükben bevált problémákat gondolkodás nélkül alkalmazni akarják minden más környezetben.
+Hasonló a helyzet mint a NoSQL-nél: sokszor sok innováció/trend a nagy startup cégektől ered, és előfordul, hogy az ő környezetükben bevált problémákat gondolkodás nélkül alkalmazni akarják minden más környezetben is.
 
 (Figyelem, nem azt állítom, hogy ezek nem alkalmazhatóak. Pl. szerintem egy schema-free MongoDB sok esetben egy-szerveres környeteben is sokkal hasznosabb, mint egy SQL szerver. De pl. egy Cassandráról ezt nem állítanám)
 
@@ -66,7 +66,7 @@ Ismétlem: értem, hogy a függőségekről akartunk beszélni, de én -- talán
 
 ## Összefoglalás
 
-*Az emberiség nagy részének nem microservice-ekre van szüksége, hanem moduláris alkalmazásokra.* Moduláris alkalmazást lehet microservice architekturával és máshogy is csinálni, és van amikor a microservice-ek elosztott tulajdonságaira is szükség van.
+__Az emberiség nagy részének nem microservice-ekre van szüksége, hanem moduláris alkalmazásokra.__ Moduláris alkalmazást lehet microservice architekturával és máshogy is csinálni, és van amikor a microservice-ek elosztott tulajdonságaira is szükség van.
 
 De már előre rettegek attól, hogy mennyi kontár kód fog születni a (félreértelmezett) microservice trend zászlaja alatt.
 
