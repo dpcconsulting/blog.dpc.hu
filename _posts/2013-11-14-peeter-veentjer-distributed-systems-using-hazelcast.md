@@ -6,6 +6,7 @@ tags:
    - devoxx
    - hazelcast
    - nosql
+type: dpc
 ---
 	
 Egyszer indítani fogok egy olyan sorozatot, ahol a szépen megmunkált Java librarykról fogok írni. Mindig öröm olyan alkalmazással találkozni, amin látszik a gondos kezek munkája. A Hazelcast, amit szintén régóta kerülgetek már, pont ilyen. Kicsi, egyetlen Jar file, egyszerű api, okos defaultok, és jól lehet hangolni nagyon sok részletét. Mintha olyan fejlesztők gondoznák akik használják is.

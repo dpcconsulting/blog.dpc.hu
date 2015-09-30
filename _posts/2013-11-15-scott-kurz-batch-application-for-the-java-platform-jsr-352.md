@@ -7,6 +7,7 @@ tags:
    - batch
    - batchprocessing
    - jsr352
+type: dpc
 ---
 A Java EE7 része már a JSR-352 batch processzing specifikáció is. Akik láttak már Spring Batch-et, azok valószínűleg tudják hová tenni. A többieknek: valami olyasmiről van szó, hogy van task olvasó, eredmény kiíró interface, és persze a futtató is. Be tudja olvasni a feladatokat, lefuttatni, akár párhuzamosan (de nem clusterbe), és szépen végig vannak gondolva a konfigurációk, hogy hány feldolgozás legyen egy tranzakció, mi legyen hiba esetén újrakezdhető, stb. Mindezt szép békebeli XML configurációval vezérelve.
 

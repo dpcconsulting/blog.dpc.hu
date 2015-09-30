@@ -6,6 +6,7 @@ tags:
    - devoxx
    - forge
    - jbosstools
+type: dpc
 ---
 A Devoxxon az ebédszünetek egy óráig tartottak, de még ez alatt az idő alatt is mentek az előadások. Ezek voltak az úgynevezett *Quicke*-k: rövid, negyedórás előadások, épp csak felvillantottak egy témát. Ezekre a helyekre amúgy lehetett pályázni (volt *Call For Papers*) és talán ezért egy kicsit vegyesebb is volt a felhozatal.
 

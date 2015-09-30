@@ -60,7 +60,7 @@ Egészen addig, amíg újra nem deployoljuk a backendet (docker stop backend, do
 
 # Linking + host file
 
-Szerencsére a docker linkelésének van egy másik oldala is. A ```/etc/hosts``` file __dinamikusan__frissül a linkelt konténer aktuális ip címével:
+Szerencsére a docker linkelésének van egy másik oldala is. A ```/etc/hosts``` file __dinamikusan__ frissül a linkelt konténer aktuális ip címével:
 
 ```
 172.17.0.51	frontend

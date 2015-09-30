@@ -7,6 +7,7 @@ tags:
    - microbenchmark
    - caliper
    - jmh
+type: dpc
 ---
 Zseniális előadás. Azt eddig is mindenki mondta, hogy a microbenchmark veszélyes, de itt pontosan el volt mondva, hogy miért. Az előadó saját bevallása szerint is: elsősorban el akart mindenkit riasztani a microbenchmarkoktól és ez azt hiszem elég jól sikerült neki.
 

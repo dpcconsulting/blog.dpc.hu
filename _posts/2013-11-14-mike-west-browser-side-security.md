@@ -7,6 +7,7 @@ tags:
    - xss
    - https
    - security
+type: dpc
 ---
 
 Délelőtt már bele néztünk egy fél security előadásba, ott PMD és Findbugs eszközök demózása volt (a látott részben). Ezzel szemben ez megint egy nagyon jó, informatív, sodró lendületű előadás volt.

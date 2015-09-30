@@ -4,6 +4,7 @@ title: Kezdődik a show
 date: 2013-11-13 09:28
 tags:
    - devoxx 
+type: dpc
 ---
 A negyedben ahol aludtunk a villamos még kaftános kalapos munkába siető zsidókkal volt tele a villamos, de ahogy egyre haladtunk kifelé a város szélén lévő mozi komplexum felé, egyre nagyobb lett a laptop táskás tömeg a villamoson. A végére már minden Budapesten tanult praktikát be kellett vetni, hogy fent maradjunk
 

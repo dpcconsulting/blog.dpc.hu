@@ -6,6 +6,7 @@ tags:
    - devoxx
    - lambda
    - jdk
+type: dpc
 ---
 
 Brian Goetz a keynote alatt olyan meggyőző volt, olyan jó olajos kezű munkás embernek tűnt, hogy beültem az előadására is. Nem bántam meg.

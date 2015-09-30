@@ -2,6 +2,7 @@
 title: Microservices (JUM)
 layout: post
 author: elek
+type: dpc
 ---
 
 A tegnapi JUM-on két előadás is szólt a microservice-ekről. Az első egy általánosabb bevezető volt (Peter Boon - The Theory of Microservices), a második egy tehnológiai megvalósítást mutatott meg (Norbert Sram - Java in the land of microservices ).

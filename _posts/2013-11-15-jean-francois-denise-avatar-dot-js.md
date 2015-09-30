@@ -7,6 +7,7 @@ tags:
    - nodejs
    - avatarjs
    - javascript
+type: dpc
 ---
 Az Avatar.JS nyílttá tételét ha jól emlékszem az idei Java One-on jelentették be. 
 

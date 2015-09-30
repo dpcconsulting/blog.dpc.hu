@@ -6,6 +6,7 @@ tags:
    - devoxx
    - vertx
    - async
+type: dpc
 ---
 
 Már rég várok rá, hogy valaki meggyőzzön a [vert.x](http://vertx.io)-ről és ezt ez az előadás abszolút hozta.

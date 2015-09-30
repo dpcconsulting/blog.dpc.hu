@@ -6,6 +6,7 @@ tags:
    - devoxx
    - invokedynamics 
    - javaee
+type: dpc
 ---
 
 Remi Forex ott folytatta körülbelül, ahol Brian Goetz abbahagyta, igaz sokkal kevésbé lehengerlő, inkább kicsit döcögősebb stílusban.

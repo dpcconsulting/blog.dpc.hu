@@ -5,6 +5,7 @@ date: 2013-11-14 09:48
 tags: 
    - devoxx
    - dart
+type: dpc
 ---
 A mai napot a Google kezdte egy keynote-tal. A szerény és visszafogott cím igazából Dart demót és promót takart.
 

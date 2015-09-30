@@ -4,6 +4,7 @@ tag:
    - OSGi
    - classloader
 layout: post
+type: dpc
 ---
 
 Ha alapokról kellene elkezdeni az OSGi működését -- mondjuk egy tanfolyam keretében -- akkor biztos, hogy még mielőtt bármit elmondanánk, a classloaderek működését kéne megértetni. Igazából meglehetősen egyszerűek a szabályok, de jó tudatosítani őket. Ha nem ismerjük a szabályokat, az OSGi konténerünk változatos ClassNotFound exception-ök dzsungelévé tud válni. De ha tudjuk mi hogy működik, elég egyszerű rátalálni az ösvényre.

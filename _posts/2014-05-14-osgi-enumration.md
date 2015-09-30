@@ -6,6 +6,7 @@ tag:
    - karaf
    - fuse
 layout: post
+type: dpc
 ---
 
 A hőskorban létezett egy magyar nyelvű wikioldal jhacks néven, amit még [Kocka][kocka] szerkesztett. Itt szintem minden Java-val kapcsolatos technológiáról volt egy két bekezdés, ami elmondta, hogy mi az. A wiki azóta már eltűnt az idők homályában, egy nem frissülő snapshot változata nem rég óta olvasható egy [github-os archívumban][jhacks].
